@@ -21,4 +21,4 @@ GNSS: /ublox_driver/receiver_lla 10Hz
       /ublox_driver/time_pulse_info 1Hz
 ground truth: /mavros/global_position/raw/fix 10Hz
 ```
-[GVIO-Switch Datasets](https://pan.baidu.com/s/1T2Y2Snf3a4lgOBONi87eOw?pwd=4kkw).
+[GVI-Switch Datasets](https://pan.baidu.com/s/1T2Y2Snf3a4lgOBONi87eOw?pwd=4kkw).
